@@ -1,0 +1,52 @@
+Normal sudouku rules may apply. You find yourself in a maze of regions connected by doors. Each region is made of rooms connected by passageways.
+You enconter some helpful people along your travels through the rooms. Here's what they have to say:
+
+Stephanie
+Some rules apply to the whole maze. Others apply to regions.
+Some people tell only lies. Some only tell the truth.
+All true statements about region specific rules apply to different regions.
+
+Daniel
+Everyone lies all the time. In particular Stephanie lies all the time. Only listen to me.
+I'm pretty sure Stephanie didn't even tell you the truth about what you're supposed to do here.
+Some rooms contain a digit from 1-8 while other are empty.
+Rooms in the same column or row containing the same digit must be further apart than the value of that digit.
+Rooms containing the same digit can not touch diagonally.
+Maurice is a liar.
+
+Maurice
+All rooms contain a digit from 1-9 such that no digit is repeated in a row, column, or region.
+Only one digit is still visible, a five. In fact, once you know the rules of the regions you will be able to immediately place 2 more fives in the grid. Please help us find all the missing digits.
+
+Patrick
+Maurice and Helen are both telling the truth.
+There is a region with a single door to the West in which orthogonally connected rooms not separated by a wall must contain digits at least 4 apart.
+There is a region in which orthogonally connected rooms not separated by a wall must contain digits that differ by a power of 2.
+There is a region in which orthogonally connected rooms not separated by a wall must contain digits that are non-consecutive.
+
+Caroline
+In one region with only 2 doors the largest and smallest digits on the shortest path between the doors are next to the doors.
+In another region with only 2 doors the digits on the shortest path between the doors strictly increase from one door to the other.
+In yet another region with only 2 doors along the shortest path between the doors the digit next to one of the doors is equal to the sum of the remaining digits.
+By the way, Annabelle is a liar.
+
+Vladimir
+Patrick is a liar.
+There is a region with a single door to the South in which all numbers formed by reading the digits from North to South or West to East from wall to wall (or door) are perfect squares.
+Another region read this way contains prime numbers.
+A third region read this way contains multiples of 7.
+
+Helen
+Exactly one of Jessica and Annabelle is a liar.
+One region of the maze is an exact clone of another, but may be rotated.
+
+Annabelle
+In one region with only 2 doors the digits on the shortest path between the doors alternate between odd and even.
+In another region with only 2 doors the digits on the shortest path between the doors form a prime number when read in one direction.
+In yet another region with only 2 doors the product of the digits on the shortest path between doors is a perfect square.
+By the way, Caroline is a liar.
+
+Jessica
+There are either 3 or 4 liars here.
+There is a region with a single door to the North in which orthogonally connected rooms not separated by a wall must not both contain prime numbers.
+There is another region with a single door to the East in which orthogonally connected rooms not separated by a wall contain digits that either have a difference of 1 or one is double the other (or both!)
