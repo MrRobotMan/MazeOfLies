@@ -85,6 +85,3 @@ About the maze: in a region whose only door opens to the North, any two adjacent
 door) may not both contain digits that are prime numbers. Even better: in a region whose only door opens to the 
 East, any two adjacent rooms (not separated by a wall or door) must contain digits whose difference is 1 or 
 whose ratio is 2.
-
-## Puzzle
-[Puzzle After Reading](https://tinyurl.com/2d84clq8)
